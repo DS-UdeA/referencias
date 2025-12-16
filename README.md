@@ -11,6 +11,8 @@
 * https://15445.courses.cs.cmu.edu/fall2025/
 * https://dsg.csail.mit.edu/6.5830/
 * https://introlab.cs.princeton.edu/how-to-effectively-use-intro-lab-tas/
+* https://github.com/aforarup/interview/tree/master/Data%20Structures%20and%20Algorithm/Algorithm%20Books
+* https://github.com/rui5i/Princeton-Algorithms
 
 ## Sin clasificar
 
